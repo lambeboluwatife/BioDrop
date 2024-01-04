@@ -45,3 +45,5 @@ test-results/
 # PWA
 public/sw.js*
 public/workbox-*.js*
+temp_auto_push.bat
+temp_interactive_push.bat
